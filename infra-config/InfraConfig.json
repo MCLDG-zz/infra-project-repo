@@ -4,6 +4,6 @@
     "EnvironmentName" : null,
     "StackName" : "infra-master-stack",
     "CFParameterFileName" : "infra-config/InfraParams.json",
-    "ProjectInfraCFTemplateS3URL" : "https://s3-ap-southeast-1.amazonaws.com/infra-master/InfraCFTemplateTomcat.json"
+    "ProjectInfraCFTemplateS3URL" : "https://s3-ap-southeast-1.amazonaws.com/infra-master/InfraCFTemplateMaster.json"
   }
 }
